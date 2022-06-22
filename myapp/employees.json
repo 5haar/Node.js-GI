@@ -1,0 +1,62 @@
+    [
+        { 
+            "id": 1,
+            "name": "Shaar",
+            "salary": 150000,
+            "department": "Tech"
+        },
+        { 
+            "id": 2,
+            "name": "Luffy",
+            "salary": 1500000,
+            "department": "Pirate"
+        },
+        { 
+            "id": 3,
+            "name": "Zoro",
+            "salary": 380000,
+            "department": "Swordsman"
+        },
+        { 
+            "id": 4,
+            "name": "Nami",
+            "salary": 160000,
+            "department": "Thief"
+        },
+        { 
+            "id": 5,
+            "name": "Usopp",
+            "salary": 2500000,
+            "department": "Hypocrite"
+        },
+        { 
+            "id": 6,
+            "name": "Robin",
+            "salary": 90000,
+            "department": "Academic"
+        },
+        { 
+            "id": 7,
+            "name": "Franky",
+            "salary": 560000,
+            "department": "Arms Dealer"
+        },
+        { 
+            "id": 8,
+            "name": "Brook",
+            "salary": 765035,
+            "department": "Guitar Player"
+        },
+        { 
+            "id": 9,
+            "name": "Jinbei",
+            "salary": 90000000,
+            "department": "Fishman"
+        },
+        { 
+            "id": 10,
+            "name": "Chopper",
+            "salary": 50,
+            "department": "Doctor"
+        }                        
+    ]
