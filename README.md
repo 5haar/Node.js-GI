@@ -1,0 +1,15 @@
+![Alt text](./CompletionPhotos/lyn1.png "Easy")
+![Alt text](./CompletionPhotos/lyn2.png "Easy")
+![Alt text](./CompletionPhotos/lyn3.png "Easy")
+![Alt text](./CompletionPhotos/lyn4.png "Easy")
+![Alt text](./CompletionPhotos/lyn5.png "Easy")
+![Alt text](./CompletionPhotos/learnyounode%20complete.png "Easy")
+
+![Alt text](./CompletionPhotos/lyn1.png "Medium")
+
+![Alt text](./CompletionPhotos/Hard.png "Hard")
+![Alt text](./CompletionPhotos/Hard2.png "Hard")
+![Alt text](./CompletionPhotos/Hard3.png "Hard")
+![Alt text](./CompletionPhotos/Hard4.png "Hard")
+![Alt text](./CompletionPhotos/Hard5.png "Hard")
+![Alt text](./CompletionPhotos/Error%20Code.png "Hard")
